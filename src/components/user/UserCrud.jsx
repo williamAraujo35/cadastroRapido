@@ -7,7 +7,9 @@ import './UserCrud.css';
 //importando o axios para conectar com o backend
 
 //url de conexão com o backend e manipulação dos usuários
-const baseUrl = 'http://localhost:3001/user'
+//const baseUrl = 'http://localhost:3001/user'
+const baseUrl = 'https://backend-cadastrorapido.onrender.com/user';
+
 
 //inicializando o estado do componente atual
 const initialState = {
