@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cadastroRapido/static/css/main.1f61b740.css",
+    "main.js": "/cadastroRapido/static/js/main.9cfbe429.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/cadastroRapido/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/Montserrat-Italic.ttf": "/cadastroRapido/static/media/Montserrat-Italic.c12cc8e898b7a5d2d4c1.ttf",
+    "static/media/fontawesome-webfont.eot": "/cadastroRapido/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/cadastroRapido/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/cadastroRapido/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/cadastroRapido/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/logo.png": "/cadastroRapido/static/media/logo.d11c9c417de0e9ecacdb.png",
+    "index.html": "/cadastroRapido/index.html",
+    "main.1f61b740.css.map": "/cadastroRapido/static/css/main.1f61b740.css.map",
+    "main.9cfbe429.js.map": "/cadastroRapido/static/js/main.9cfbe429.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f61b740.css",
+    "static/js/main.9cfbe429.js"
+  ]
+}
